@@ -1,6 +1,6 @@
 num1 = float(input("Enter first number: "))
-num2 = float(input("Enter second number: "))
 operator = input("Enter operation (+, -, *, /): ")
+num2 = float(input("Enter second number: "))
 
 # Perform the operation
 if operator == '+':
